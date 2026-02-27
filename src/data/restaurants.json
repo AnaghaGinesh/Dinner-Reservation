@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Kochi Kapital Kafe",
+    "cuisine_type": "Cafe",
+    "city": "Kochi",
+    "rating": 4.9,
+    "price_range": "$$",
+    "address": "Fort Kochi, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=800",
+    "description": "Top-rated cafe in Fort Kochi known for its avocado toast and serene vibes."
+  },
+  {
+    "name": "Mosaic",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Kochi",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Crowne Plaza, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "Excellent dinner buffet with a wide variety of global and local flavors."
+  },
+  {
+    "name": "Canvas Restaurant & Pizzeria",
+    "cuisine_type": "Italian",
+    "city": "Kochi",
+    "rating": 4.7,
+    "price_range": "$$",
+    "address": "Fort Kochi, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800",
+    "description": "Famous for authentic wood-fired pizzas and homemade pasta."
+  },
+  {
+    "name": "The Rice Boat",
+    "cuisine_type": "Seafood",
+    "city": "Kochi",
+    "rating": 4.9,
+    "price_range": "$$$$",
+    "address": "Taj Malabar, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=800",
+    "description": "Dine on a traditional kettuvallam with succulent tiger prawns and fresh catch."
+  },
+  {
+    "name": "Sky Grill",
+    "cuisine_type": "Grill",
+    "city": "Kochi",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Maradu, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=800",
+    "description": "Rooftop lounge offering delicious beef tenderloin and panoramic city views."
+  },
+  {
+    "name": "Fort House Restaurant",
+    "cuisine_type": "Kerala",
+    "city": "Kochi",
+    "rating": 4.6,
+    "price_range": "$$$",
+    "address": "Fort Kochi, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800",
+    "description": "Waterfront dining featuring authentic crab curry and balanced fish curries."
+  },
+  {
+    "name": "Kochi Kitchen",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Kochi",
+    "rating": 4.7,
+    "price_range": "$$$",
+    "address": "Kochi Marriott, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "Sophisticated all-day dining known for its rack of lamb and lavish brunches."
+  },
+  {
+    "name": "Thai Soul",
+    "cuisine_type": "Thai",
+    "city": "Kochi",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Grand Hyatt, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&q=80&w=800",
+    "description": "Authentic Thai street food flavors in a premium setting."
+  },
+  {
+    "name": "Zoka",
+    "cuisine_type": "Asian",
+    "city": "Kochi",
+    "rating": 4.6,
+    "price_range": "$$$",
+    "address": "Crowne Plaza, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&q=80&w=800",
+    "description": "Specializes in udon noodles and signature fury salmon."
+  },
+  {
+    "name": "Cassava",
+    "cuisine_type": "Kerala",
+    "city": "Kochi",
+    "rating": 4.5,
+    "price_range": "$$$",
+    "address": "Kochi Marriott, Kochi",
+    "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&q=80&w=800",
+    "description": "Traditional Kerala recipes presented with modern elegance."
+  },
+  {
+    "name": "Delhi Highway",
+    "cuisine_type": "North Indian",
+    "city": "Mumbai",
+    "rating": 4.7,
+    "price_range": "$$",
+    "address": "Andheri, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&q=80&w=800",
+    "description": "Authentic North Indian thalis that are totally worth the visit."
+  },
+  {
+    "name": "Fiona",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Mumbai",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Radisson Blu, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "Excellent service and a diverse menu featuring global favorites."
+  },
+  {
+    "name": "By the Mekong",
+    "cuisine_type": "Asian",
+    "city": "Mumbai",
+    "rating": 4.9,
+    "price_range": "$$$$",
+    "address": "St. Regis, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&q=80&w=800",
+    "description": "Stunning views from the 37th floor with amazing Asian fusion dishes."
+  },
+  {
+    "name": "Namak",
+    "cuisine_type": "Indian",
+    "city": "Mumbai",
+    "rating": 4.7,
+    "price_range": "$$$",
+    "address": "Sahara Star, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=800",
+    "description": "Renowned for its incredible service and traditional Indian flavors."
+  },
+  {
+    "name": "Cafe Mondegar",
+    "cuisine_type": "Cafe & Bar",
+    "city": "Mumbai",
+    "rating": 4.5,
+    "price_range": "$$",
+    "address": "Colaba, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=800",
+    "description": "Iconic Colaba spot famous for its jukebox and vibrant atmosphere."
+  },
+  {
+    "name": "Peshawri",
+    "cuisine_type": "North Indian",
+    "city": "Mumbai",
+    "rating": 4.8,
+    "price_range": "$$$$",
+    "address": "ITC Maratha, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&q=80&w=800",
+    "description": "Famous for its Dal Bukhara and authentic clay oven cooking."
+  },
+  {
+    "name": "AER Mumbai",
+    "cuisine_type": "Bar & Lounge",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "price_range": "$$$$",
+    "address": "Four Seasons, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=800",
+    "description": "One of the most unique rooftop bar experiences in the city."
+  },
+  {
+    "name": "Lake View Cafe",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Mumbai",
+    "rating": 4.7,
+    "price_range": "$$$",
+    "address": "Westin Powai, Mumbai",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "Beautiful Powai lake views with an impressive international buffet."
+  },
+  {
+    "name": "Raajsik",
+    "cuisine_type": "Indian",
+    "city": "Delhi",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "New Delhi",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=800",
+    "description": "Royal Indian dining experience with exceptional service."
+  },
+  {
+    "name": "Juniper Bar",
+    "cuisine_type": "Bar & Lounge",
+    "city": "Delhi",
+    "rating": 4.6,
+    "price_range": "$$$",
+    "address": "Andaz Delhi",
+    "image_url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=800",
+    "description": "A magical ambiance specializing in gin-based cocktails."
+  },
+  {
+    "name": "Ama Café",
+    "cuisine_type": "Cafe",
+    "city": "Delhi",
+    "rating": 4.7,
+    "price_range": "$",
+    "address": "Majnu Ka Tilla, Delhi",
+    "image_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=800",
+    "description": "A favorite for its amazing pancakes and cozy Himalayan vibes."
+  },
+  {
+    "name": "Tamra",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Delhi",
+    "rating": 4.9,
+    "price_range": "$$$$",
+    "address": "Shangri-La, Delhi",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "One of the most amazing buffets in Delhi with incredible hospitality."
+  },
+  {
+    "name": "Thyme",
+    "cuisine_type": "Multi-cuisine",
+    "city": "Delhi",
+    "rating": 4.7,
+    "price_range": "$$$",
+    "address": "The Umrao, Delhi",
+    "image_url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&q=80&w=800",
+    "description": "Perfect for business trips and special family celebrations."
+  },
+  {
+    "name": "Lakhori-Haveli Dharampura",
+    "cuisine_type": "Mughlai",
+    "city": "Delhi",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Chandni Chowk, Delhi",
+    "image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&q=80&w=800",
+    "description": "Historic haveli dining with creamy phirni and authentic flavors."
+  },
+  {
+    "name": "Bukhara",
+    "cuisine_type": "North Indian",
+    "city": "Delhi",
+    "rating": 4.9,
+    "price_range": "$$$$",
+    "address": "ITC Maurya, Delhi",
+    "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&q=80&w=800",
+    "description": "A must-visit for anyone who enjoys world-class North Indian cuisine."
+  },
+  {
+    "name": "Karavalli",
+    "cuisine_type": "South Indian",
+    "city": "Bangalore",
+    "rating": 4.8,
+    "price_range": "$$$",
+    "address": "Residency Rd, Bangalore",
+    "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&q=80&w=800",
+    "description": "Coastal flavors of South India served in a traditional setting."
+  },
+  {
+    "name": "Adaa",
+    "cuisine_type": "Hyderabadi",
+    "city": "Hyderabad",
+    "rating": 4.9,
+    "price_range": "$$$$",
+    "address": "Falaknuma Palace, Hyderabad",
+    "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800",
+    "description": "Royal Hyderabadi dining inside a historic palace."
+  }
+]
